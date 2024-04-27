@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Last Pencil (Java)/*
+!/Last Pencil (Java)/task/
+/Last Pencil (Java)/task/*
+!/Last Pencil (Java)/task/src
+
+# Project exclude paths
+/Topics/Objects and their properties/Calculating areas using Rectangle class/out/
+/Topics/Objects and their properties/Calculating areas using Rectangle class/out/production/classes/
+/Topics/Processing strings/Compression algorithm/out/
+/Topics/Processing strings/Compression algorithm/out/production/classes/
+/Topics/Random class/Gaussian random numbers/out/
+/Topics/Random class/Gaussian random numbers/out/production/classes/
